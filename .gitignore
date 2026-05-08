@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.h5
+*.hdf5
+collect_log.txt
+test_*.h5
+environment*.json
+requirements_frozen*.txt
+.venv/
