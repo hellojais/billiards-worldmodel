@@ -1,4 +1,25 @@
+---
+license: mit
+task_categories:
+- reinforcement-learning
+- robotics
+tags:
+- world-model
+- billiards
+- jepa
+- lewm
+- pygame
+- hdf5
+pretty_name: Billiards World Model Training Dataset
+size_categories:
+- 100K<n<1M
+---
+
 # Billiards World-Model Training Environment
+
+> **Author:** Santosh Jaiswal ([@hellojais](https://huggingface.co/hellojais))  
+> **GitHub:** [hellojais/billiards-worldmodel](https://github.com/hellojais/billiards-worldmodel)  
+> **Part of:** [LeWM Billiards Research](https://github.com/hellojais/le-wm)  
 
 A 2D billiards simulator built with **Pygame** that acts as a training
 environment for a world model (LeWM). A scripted geometric agent plays
